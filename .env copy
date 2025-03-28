@@ -1,0 +1,8 @@
+OPENAI_API_KEY="Your OpenAI Api Key"
+ASTRA_DB_API_ENDPOINT="Astra Endpoint of your Database"
+ASTRA_DB_APPLICATION_TOKEN="Astra security token"
+ASTRA_DB_KEYSPACE="database keyspace"
+ASTRA_DB_COLLECTION="collection name"
+ASTRA_DB_EMBEDDING_DIMENSIONS=1536
+AWS_ACCESS_KEY_ID="aws access key"
+AWS_SECRET_ACCESS_KEY="aws secret"
